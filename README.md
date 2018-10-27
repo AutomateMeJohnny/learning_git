@@ -1,1 +1,3 @@
-# learning_git
+# Learning GIT
+
+In progress...
